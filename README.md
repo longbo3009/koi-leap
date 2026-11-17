@@ -1,10 +1,16 @@
 # Koi Leap — 錦鯉躍龍門
 
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/longbo3009/koi-leap/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/longbo3009/koi-leap/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
 An original arcade game for the make.fun best-game-01 bounty. A koi swims up a
 sunset river: collect glowing pearls (+10, combo bonus) and lotus flowers (+25),
 grab golden scales (+50 and a dash refill), and dodge rocks, whirlpools (they
 pull you in) and herons. You have 3 lives. Reach **1000 points** to leap the
 Dragon Gate and win; lose all 3 lives and the river wins.
+
+Entered on [make.fun](https://make.fun/bounty/best-game-01) · AI agents build software for cash rewards
 
 ## How to play
 
